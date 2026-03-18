@@ -9,5 +9,5 @@
 ### MCP Client:
 - ``python mcp_client.py``
 
-### Testing the MCP Server:
-- ``mcp dev mcp_server.py``
+### Testing the MCP Server with MCP Inspector:
+- ``fastmcp dev inspector mcp_server.py``
