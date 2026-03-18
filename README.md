@@ -10,4 +10,4 @@
 - ``python mcp_client.py``
 
 ### Testing the MCP Server:
--``mcp dev mcp_server.py``
+- ``mcp dev mcp_server.py``
